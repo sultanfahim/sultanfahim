@@ -1,19 +1,19 @@
 
-<h1 align="center">Hi 👋, I'm Sultan Fahim</h1>
+<h1 align="center">Hi 👋, I'm Sultan Fahim!</h1>
 <h3 align="center">A Passionate Computer Science Engineer from Bangladesh.</h3>
 <img align ="right" alt ="coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/79e26abb3fb85b42f2722cf22da095dc.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sultanfahim&label=Profile%20views&color=0e75b6&style=flat" alt="sultanfahim" /> </p>
 
-- 🔭 I’m currently working on **OpenCV,Block Chain technology,IoT,webapps**
+- 🔭 I’m currently working on **OpenCV,Block Chain technology,IoT,webapps.**
 
 - 🌱 I’m currently learning **Data Scinece**
 
-- 👯 I’m looking to collaborate on **Machine Learning related projects**
+- 👯 I’m looking to collaborate on **Machine Learning related projects.**
 
-- 🤝 I’m looking for help with **Machine Learning, IoT**
+- 🤝 I’m looking for help with **Machine Learning, IoT.**
 
-- 💬 Ask me about **OpenCV, AI, Digital Image Processing**
+- 💬 Ask me about **OpenCV, AI, Digital Image Processing.**
 
 - 📫 How to reach me **sultanfahim89@gmail.com**
 
